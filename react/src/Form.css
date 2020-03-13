@@ -1,0 +1,35 @@
+ .Form{
+    display:inline-block;
+    margin-left: 500px;
+    margin-bottom: 150px;;
+    padding:130px;
+    background-color:rgb(254, 224, 255);
+          }
+
+ .class1{
+    font-size: 1em;
+    
+       }
+
+ .class2{
+    font-size: 1em; 
+
+     }
+
+.class3{
+    font-size: 1em;
+   } 
+.class4{
+    font-size: 1em;
+ }
+
+  .red{
+      color:red;
+  }
+   .hide{
+     display:none;  
+   }
+
+   .inputDiv > input {
+      width: 200px;
+   }
